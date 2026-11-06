@@ -47,6 +47,7 @@ RFM adaptado: como não há compra repetida, adaptamos as três dimensões - Rec
 Pareto: concentração dos motivos de cancelamento, para identificar os poucos motivos que respondem pela maioria das saídas.
 
 INSIGHTS
+
 As principais descobertas da análise:
 O NPS é o sinal mais forte de churn: clientes que cancelaram tinham NPS
 médio de 4,1, contra 7,4 dos que permaneceram.
